@@ -55,9 +55,8 @@
 
 For more information, see
 
-* The [Detector Documentation](https://github.com/crytic/slither/wiki/Detector-Documentation) for details on each detector
-* The [Detection Selection](https://github.com/crytic/slither/wiki/Usage#detector-selection) to run only selected detectors. By default, all the detectors are run.
-* The [Triage Mode](https://github.com/crytic/slither/wiki/Usage#triage-mode) to filter individual results
+* The [Sentinel Documentation](https://app.gitbook.com/o/UO3hYGggJBMeQGIczTah/s/pDNUEw0AjuWkqfI1z0U9/) for detailed documentaion on Sentinel's workings.
+* The [Sentinel Architecture](https://app.gitbook.com/o/UO3hYGggJBMeQGIczTah/s/pDNUEw0AjuWkqfI1z0U9/getting-started/introduction-to-formforge/quickstart) to learn about architecture.
 
 ## API Documentation
 
@@ -75,7 +74,7 @@ Coming Soon
 
 ## License
 
-Slither is licensed and distributed under the MIT License. [Contact me on Socials](mailto:zutshiaryan5@gmail.com) if you're looking for an exception to the terms.
+Sentinel is licensed and distributed under the MIT License. [Contact me on Socials](mailto:zutshiaryan5@gmail.com), if you're looking for an exception to the terms.
 
 ## Contributing
 
