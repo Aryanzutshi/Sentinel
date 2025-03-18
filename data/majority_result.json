@@ -1,0 +1,6 @@
+{
+    "majority_vulnerabilities": [
+        "Reentrancy",
+        "Integer Overflow"
+    ]
+}
