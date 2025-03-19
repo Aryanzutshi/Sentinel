@@ -1,7 +1,6 @@
-# CODE OF CONDUCT for Sentinel**
+# **CODE OF CONDUCT for Sentinel**
 
-```markdown
-# Contributor Covenant Code of Conduct
+### Contributor Covenant Code of Conduct
 
 ## Our Pledge
 We pledge to foster an open and welcoming environment for everyone, regardless of age, body size, disability, ethnicity, gender identity, experience level, education, or religion.
