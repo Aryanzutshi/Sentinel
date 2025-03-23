@@ -64,13 +64,47 @@ Coming Soon
 
 ## Getting Help
 
-- Documentation
-- Social Channel
-- Wikipedia of blockchain
+If you need assistance, there are multiple ways to get support:  
+
+### 📚 Documentation  
+Check out our official documentation for detailed guides and API references:  
+[📖 Documentation](https://app.gitbook.com/o/UO3hYGggJBMeQGIczTah/s/pDNUEw0AjuWkqfI1z0U9/) 
+
+### 🌐 Socials  
+Join our community and stay updated:  
+- **Twitter/X**: [@YourProject](#)  
+- **Discord**: [Invite Link](#)  
+- **Telegram**: [Group Link](#)  
+
+### 📖 GitHub Wiki  
+For in-depth explanations and tutorials, visit our Wiki:  
+[📖 GitHub Wiki](https://github.com/Aryanzutshi/Sentinel/wiki)  
+
+### 🛠 GitHub Repositories  
+- **Main Product**: [🔗 GitHub Repo](https://github.com/aryanzutshi/Sentinel)   
+- **Interface**: [🔗 GitHub Repo](https://github.com/aryanzutshi/Sentinel-Interface)
+
+If you encounter any issues, feel free to open an issue in the relevant repository.
 
 ## FAQ
 
-Coming Soon
+### 🔹 What is Sentinel?  
+Sentinel is a comprehensive smart contract security platform that provides multi-layer protection against various types of attacks and exploits. It combines advanced technologies like AI-powered audits, zero-knowledge proofs, and private mempool execution to create a robust security framework for DeFi applications and smart contracts.  
+
+### 🔹 Why do I need Sentinel for my smart contracts?  
+Smart contracts require robust security measures due to their exposure to potential exploits and financial risks. Over **$120+ million** was lost to hacks in recent years [check here](https://blog.openzepplin.com), highlighting the critical need for automated security solutions. Sentinel helps prevent such losses by providing real-time attack detection and automated response mechanisms.  
+
+### 🔹 What kind of support does Sentinel offer?  
+Sentinel offers multiple support channels, including:  
+- 📚 **Documentation**  
+- 🌐 **Website**  
+- 📦 **Pip integration, Yarn integration, and Docker integration**  
+- 📖 **Wiki for the project**  
+- 🌍 **Socials**  
+
+### 🔹 What makes Sentinel's auditing system unique?  
+Sentinel combines **artificial intelligence** with **zero-knowledge proofs** to create a **decentralized auditing network**. This system continuously monitors contracts for vulnerabilities while maintaining privacy through cryptographic techniques, ensuring comprehensive security **without exposing sensitive information**.  
+
 
 ## License
 
